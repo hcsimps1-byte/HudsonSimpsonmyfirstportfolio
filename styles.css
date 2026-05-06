@@ -1,0 +1,13 @@
+/* CSS by Hudson Simpson */
+/* Color Palette 
+#DDFFEA white for background
+#803D3D dark red for text background
+#FFDEDE light pink for text or background
+#F8C2FF bolder light pink for text or background
+#448040 green for text 
+*/
+
+/* GLOBAL (base) MOBILE FIRST */
+body{
+background-color: #DDFFEA;
+}
